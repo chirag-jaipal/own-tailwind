@@ -101,6 +101,7 @@ git clone https://github.com/chirag-jaipal/own-tailwind.git
 
 ---
 
-## Note
+## Implementation Note
 
-This is a learning project focused on understanding DOM behavior and dynamic styling systems.
+This version uses a mapping-based approach for class-to-style conversion.
+It can be extended to a fully dynamic parser for class patterns like `chai-p-4`.
