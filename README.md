@@ -1,5 +1,7 @@
 # Mini Tailwind-like CSS Engine (Vanilla JS)
 
+🔗 **Live Demo:** https://own-tailwind-zeta.vercel.app/
+
 A lightweight utility-first CSS engine built using JavaScript and the MutationObserver API.
 Applies styles dynamically based on class names without using any external CSS file.
 
@@ -94,7 +96,7 @@ ROOT/
 Clone the repository and open `index.html` in your browser.
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/chirag-jaipal/own-tailwind.git
 ```
 
 ---
